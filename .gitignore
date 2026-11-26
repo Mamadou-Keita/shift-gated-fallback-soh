@@ -1,0 +1,19 @@
+# data and outputs are not versioned
+data/
+results/
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.csv
+*.pkl
+*.log
+*.out
+*.err
+slurm-*.out
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# external repository cloned at a fixed commit (see README)
+ext/
