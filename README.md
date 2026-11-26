@@ -2,7 +2,7 @@
 
 Code for the paper:
 
-> M. Keita and A. Bellali, *An architecture-agnostic shift-gated fallback for battery
+> M. Keita et al., *An architecture-agnostic shift-gated fallback for battery
 > state-of-health estimation under distribution shift*, submitted to *Energy and AI* (2026).
 
 The method wraps any SOH estimator (the "expert") with three components:
@@ -111,7 +111,7 @@ The SLURM scripts expect `$WORK`-based paths and an account name: edit
 
 ```bibtex
 @article{keita2026shiftgated,
-  author  = {Keita, Mamadou and Bellali, Amira},
+  author  = {Keita, Mamadou},
   title   = {An architecture-agnostic shift-gated fallback for battery state-of-health estimation under distribution shift},
   journal = {Energy and AI},
   year    = {2026},
